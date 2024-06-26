@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Tetris 3",
+      "descricao": "Puzzle",
+      "foto": "jogo1.PNG",
+      "preco": 300
+    },
+    {
+      "id": 2,
+      "produto": "Arkanoid ",
+      "descricao": "Puzzle",
+      "foto": "jogo2.PNG",
+      "preco": 200
+    },
+    {
+      "id": 3,
+      "produto": "F-ZERO ",
+      "descricao": "Descrição do jogo 3",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": 4,
+      "produto": "Boberman 4",
+      "descricao": "Arena / Aventura",
+      "foto": "jogo1.PNG",
+      "preco": 200
+    }
+  ]
+}
